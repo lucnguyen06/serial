@@ -13,7 +13,20 @@
             "added_date": "2024-01-02"
         },
         {
-            "serial": "GHI456789123",
+            "serial": "aed789",
+            "name": "Xiaomi 14 Ultra Production Device",
+            "owner": "Production",
+            "added_date": "2024-01-03"
+        }
+         {
+            "serial": "acb345",
+            "name": "Xiaomi 14 Ultra Production Device",
+            "owner": "Production",
+            "added_date": "2024-01-03"
+        }
+    ],
+     {
+            "serial": "adb123",
             "name": "Xiaomi 14 Ultra Production Device",
             "owner": "Production",
             "added_date": "2024-01-03"
@@ -26,3 +39,4 @@
     }
 
 }
+
