@@ -1,0 +1,27 @@
+{
+    "devices": [
+        {
+            "serial": "ABC123456789",
+            "name": "Xiaomi 14 Ultra Test Device 1",
+            "owner": "Admin",
+            "added_date": "2024-01-01"
+        },
+        {
+            "serial": "DEF987654321",
+            "name": "Xiaomi 14 Ultra Test Device 2",
+            "owner": "Tester",
+            "added_date": "2024-01-02"
+        },
+        {
+            "serial": "GHI456789123",
+            "name": "Xiaomi 14 Ultra Production Device",
+            "owner": "Production",
+            "added_date": "2024-01-03"
+        }
+    ],
+    "metadata": {
+        "version": "1.0",
+        "last_updated": "2024-01-03",
+        "description": "Danh sách thiết bị được phép flash ROM"
+    }
+}
