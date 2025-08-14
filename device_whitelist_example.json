@@ -1,8 +1,8 @@
 {
     "devices": [
         {
-            "serial": "ABC123456789",
-            "name": "Xiaomi 14 Ultra Test Device 1",
+            "serial": "43b61eb5",
+            "name": "Xiaomi 14",
             "owner": "Admin",
             "added_date": "2024-01-01"
         },
@@ -24,4 +24,5 @@
         "last_updated": "2024-01-03",
         "description": "Danh sách thiết bị được phép flash ROM"
     }
+
 }
